@@ -1,0 +1,9 @@
+Todo:
+-simplify some code (checkwin)
+
+
+
+ultimate inherits checkifoccupied and checkWin from board
+		
+do this check before asking user to enter row and col or at end of loop
+- a board is occupied if it contains *
